@@ -3,7 +3,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/bonfy/go-mega-code/vm"
+	"github.com/MasterChanMonkey/go-mega-code/vm"
 )
 
 type home struct{}
