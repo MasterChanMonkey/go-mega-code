@@ -1,6 +1,6 @@
 package vm
 
-import "github.com/bonfy/go-mega-code/model"
+import "github.com/MasterChanMonkey/go-mega-code/model"
 
 // IndexViewModel struct
 type IndexViewModel struct {

@@ -3,7 +3,7 @@ package model
 import (
 	"log"
 
-	"github.com/bonfy/go-mega-code/config"
+	"github.com/MasterChanMonkey/go-mega-code/config"
 	"github.com/jinzhu/gorm"
 )
 

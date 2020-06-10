@@ -3,7 +3,7 @@ package vm
 import (
 	"log"
 
-	"github.com/bonfy/go-mega-code/model"
+	"github.com/MasterChanMonkey/go-mega-code/model"
 )
 
 // LoginViewModel struct
