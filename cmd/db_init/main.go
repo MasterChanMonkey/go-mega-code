@@ -2,7 +2,6 @@ package main
 
 import (
 	"log"
-
 	"github.com/MasterChanMonkey/go-mega-code/model"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
